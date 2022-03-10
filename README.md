@@ -5,7 +5,7 @@
 - 🔭 Sou estudante Bel em Engenharia da Computação e o meu foco é o no desenvolvimento Full Stack.
 - 🌱 Estudando e aperfeiçoando C#, .Net, Asp.Net, Node.js, MVC, Angular, HTML e CSS padrão.
 - 👯 Buscando uma primeira oportunidade pra atuar como Desenvolvedor.
-- 😄 Pronouns: ele/dele
+
 
  <div>
   <a href="https://github.com/thalesorm">
