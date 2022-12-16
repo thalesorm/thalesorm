@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sou estudante Bel em Engenharia da Computação e o meu foco é o no desenvolvimento Full Stack e paralelamente faço o curso de desenvolvedor Full-Stack na [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1YSbvWX6p_-gHzAZBBiPw4i3XVncbD94_2hNcZksp0EZ0megejUc74aAnMmEALw_wcB)
+- 🔭 Sou estudante Bel em Engenharia da Computação e paralelamente faço o curso de desenvolvedor Full-Stack na [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1YSbvWX6p_-gHzAZBBiPw4i3XVncbD94_2hNcZksp0EZ0megejUc74aAnMmEALw_wcB)
 - 🌱 Estudando e aperfeiçoando C#, .Net, Asp.Net, Node.js, MVC, Angular, HTML e CSS padrão.
 - 👯 Buscando uma primeira oportunidade pra atuar como Desenvolvedor.
 
